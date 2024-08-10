@@ -29,21 +29,26 @@ html,body{
 }
 
 #card1{
-    z-index: 4;
+    z-index: 5;
 }
 
 #card2{
     rotate: -5deg;
-    z-index: 3;
+    z-index: 4;
 }
 
 #card3{
     rotate: -10deg;
-    z-index: 2;
+    z-index: 3;
 }
 
 #card4{
     rotate: -15deg;
+    z-index: 2;
+}
+
+#card5{
+    rotate: -20deg;
     z-index: 1;
 }
 
@@ -54,11 +59,14 @@ img{
 }
 
 #card2:hover{
-    z-index: 5;
+    z-index: 10;
 }
 #card3:hover{
-    z-index: 5;
+    z-index: 10;
 }
 #card4:hover{
-    z-index: 5;
+    z-index: 10;
+}
+#card5:hover{
+    z-index: 10;
 }
