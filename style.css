@@ -33,12 +33,12 @@ html,body{
 }
 
 #card2{
-    rotate: -5deg;
+    rotate: -7deg;
     z-index: 4;
 }
 
 #card3{
-    rotate: -10deg;
+    rotate: -14deg;
     z-index: 3;
 }
 
